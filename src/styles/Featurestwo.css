@@ -1,0 +1,58 @@
+/* features-two.css */
+
+/* Section styling */
+.features-section {
+    background-color: #f7f5f2;
+    padding: 6rem 1.5rem;
+    position: relative;
+}
+
+.features-container {
+    max-width: 80rem; /* Equivalent to max-w-7xl */
+    margin: 0 auto;
+    height: 800px;
+    position: relative;
+}
+
+.centered-image {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-object-contain {
+    object-fit: contain;
+}
+
+/* Decorative leaves */
+.decorative-leaf {
+    position: absolute;
+    width: 3rem; /* 12 * 4px = 48px */
+    height: 3rem;
+}
+
+.decorative-leaf path {
+    fill: currentColor;
+}
+
+/* Features */
+.feature-box {
+    position: absolute;
+    width: 300px;
+    text-align: center;
+}
+
+.feature-title {
+    font-size: 1.25rem; /* text-xl */
+    font-weight: bold;
+    color: #2d3748; /* gray-800 */
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.05em;
+}
+
+.feature-description {
+    color: #718096; /* gray-600 */
+    font-size: 0.875rem; /* text-sm */
+    line-height: 1.75;
+}
