@@ -45,7 +45,7 @@ function FeaturesTwo() {
         {
             title: "WooCommerce Compatible",
             description:
-                "Elated Themes provide a large collection of elements and shortcodes. Create any layout combination you can imagine and.",
+                "Elated Themes provide a large collection of elements and shortcodes. create any layout combination you can imagine and.",
             position: {
                 bottom: "25%",
                 left: "0",
