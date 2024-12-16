@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import '../styles/FeaturesTwo.css';
+import '@/styles/FeaturesTwo.css';
 
 function FeaturesTwo() {
     const features = [
