@@ -22,7 +22,7 @@ function Footer() {
             </p>
             <div className="footer-contact">
               <Home size={20} />
-              <span>+387643932728</span>
+              <span>+1234567890</span>
             </div>
             <div className="footer-contact">
               <span>Eighth Avenue 487, New York</span>
@@ -72,7 +72,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer-divider">
-          <p>©2017 Qode Interactive, All Rights Reserved</p>
+          <p>©2024 darakhshanshah8@gmail.com, All Rights Reserved</p>
         </div>
       </footer>
     </div>
