@@ -1,7 +1,7 @@
 import React from 'react';
 import { Facebook, Instagram, Twitter } from 'lucide-react';
 import Image from 'next/image';
-import '@/styles/OurTeam.css'; // Import the CSS file
+import '../styles/OurTeam.css'; // Import the CSS file
 
 function OurTeam() {
   return (
