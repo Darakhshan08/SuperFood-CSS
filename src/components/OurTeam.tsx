@@ -43,7 +43,7 @@ function OurTeam() {
           <h3 className="team-member-name">Jackie Brown</h3>
           <p className="team-member-role">Photographer</p>
           <p className="team-member-description">
-            Capturing life's beautiful moments through the lens of creativity.
+            Capturing life&apos;s beautiful moments through the lens of creativity.
           </p>
           <div className="social-links">
             <Facebook className="social-icon" />

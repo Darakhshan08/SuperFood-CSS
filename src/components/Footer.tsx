@@ -54,7 +54,7 @@ function Footer() {
           {/* Section 3 */}
           <div>
             <h3 className="footer-feed-title">Twitter feed</h3>
-            <p className="footer-text">Couldn't connect with Twitter</p>
+            <p className="footer-text">Couldn&apos;t connect with Twitter</p>
             <div className="footer-social-links">
               <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
                 <Instagram size={20} />
